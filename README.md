@@ -10,7 +10,9 @@ File you can use for ..
   * Random cellular calls
 
 FileName : All-AM-Numbers.txt
+
 FileType : *.txt | Text file format
+
 FileSize : 285.15 MB
 
 #Armenia #phone #numbers #database #wifi #crack #website #hack #socialmedia
