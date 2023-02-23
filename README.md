@@ -13,6 +13,7 @@ you can use this command into linux terminal
 
           & cat filename1.txt filename2.txt filename3.txt > database.txt # For specific files
 or         
+
           & cat * > database.txt # For all files
  
  collected all databases to one file.
