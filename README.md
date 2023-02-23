@@ -24,5 +24,3 @@ FileType : *.txt | Text file format
 FileSize : 285.15 MB
 
 FileUrl  : https://www.mediafire.com/file/ypbxzm1kfyyp6ij/All-AM-Numbers.txt/file
-
-#Armenia #phone #numbers #database #wifi #crack #website #hack #socialmedia
