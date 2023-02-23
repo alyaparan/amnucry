@@ -15,12 +15,3 @@ you can use this command for linux terminal,  collected databases into one file.
 or         
 
     & cat * > database.txt # For all files
-
-
-FileName : All-AM-Numbers.txt
-
-FileType : *.txt | Text file format
-
-FileSize : 285.15 MB
-
-FileUrl  : 
