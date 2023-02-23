@@ -11,10 +11,10 @@ File you can use for ..
   
 you can use this command for linux terminal,  collected databases into one file.
 
- & cat filename1.txt filename2.txt filename3.txt > database.txt # For specific files
+    & cat filename1.txt filename2.txt filename3.txt > database.txt # For specific files
 or         
 
- & cat * > database.txt # For all files
+    & cat * > database.txt # For all files
 
 
 FileName : All-AM-Numbers.txt
