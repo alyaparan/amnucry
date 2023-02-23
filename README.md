@@ -9,7 +9,7 @@ File you can use for ..
   * Signal pilling
   * Random cellular calls
   
-you can use this command into linux terminal,  collected databases into one file.
+you can use this command for linux terminal,  collected databases into one file.
 
           & cat filename1.txt filename2.txt filename3.txt > database.txt # For specific files
 or         
