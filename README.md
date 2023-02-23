@@ -1,4 +1,4 @@
-# Armenian all phone numbers database
+# amnumcry - Armenian phone numbers database
 
 This database of phone numbers you can only use with educational purposes and I'am not responsible for your actions, everything is at on your own risk. It contains all Armenian phone numbers. Into database included all numbers started with +374-xx-xx-xx-xx , 374-xx-xx-xx-xx and 0-xx-xx-xx-xx.
 File you can use for ..
