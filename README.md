@@ -39,11 +39,11 @@ If you have suggestions or improvements, feel free to contribute. Follow the gui
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the License 2.0 apache github - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
-For questions or concerns, you can contact the project creator at [your.email@example.com].
+For questions or concerns, you can contact the project creator at Website www.alikparanyan.com or Email mail@alikparanyan.com .
 
 ---
 
