@@ -1,7 +1,3 @@
-Certainly! Below is a template for an Apache 2.0 license file (`LICENSE.md`) for your previous project:
-
----
-
 # Apache License 2.0
 
 ## Apache License
@@ -69,7 +65,3 @@ In no event and under no legal theory, whether in tort (including negligence), c
 ### 9. Accepting Warranty or Additional Liability.
 
 While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
-
----
-
-Please replace "[Your Name]" with the actual name of the person or organization holding the copyright. Additionally, if there are any specific instructions or terms you want to include, feel free to add them to the file.
