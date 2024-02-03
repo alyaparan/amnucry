@@ -44,7 +44,3 @@ This project is licensed under the License 2.0 apache github - see the [LICENSE.
 ## Contact
 
 For questions or concerns, you can contact the project creator at Website www.alikparanyan.com or Email mail@alikparanyan.com .
-
----
-
-Remember to customize the README based on your specific project details, including the license name and your contact information.
